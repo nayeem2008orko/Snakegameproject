@@ -18,3 +18,5 @@ A fun Snake game built with Pygame, featuring:
 ```bash
 pip install pygame
 python main.py
+## 📁 EXECUTABLE FILE LINK(GOOGLE DRIVE)
+https://drive.google.com/file/d/1iNplX-KQEdfYvwa7pUNTNmNMueHyU1hG/view?usp=drivesdk
