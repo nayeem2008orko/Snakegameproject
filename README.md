@@ -12,12 +12,11 @@ A fun Snake game built with Pygame, featuring:
 - W / A / S / D — move the snake
 - F — restart after game over
 - X — exit the game
+## 📁 EXECUTABLE FILE LINK(GOOGLE DRIVE)
+https://drive.google.com/file/d/1iNplX-KQEdfYvwa7pUNTNmNMueHyU1hG/view?usp=drivesdk
 
 ## ▶ How to Run
 
 ```bash
 pip install pygame
 python main.py
-
-## 📁 EXECUTABLE FILE LINK(GOOGLE DRIVE)
-https://drive.google.com/file/d/1iNplX-KQEdfYvwa7pUNTNmNMueHyU1hG/view?usp=drivesdk
