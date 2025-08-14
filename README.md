@@ -26,7 +26,7 @@ Each difficulty has its own separate high score tracking.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-snake-game-repo.git
+   git clone https://github.com/nayeem2008orko/snakegameproject.git
    cd your-snake-game-repo
 
 2. Create and activate virtual environment (If not done)
